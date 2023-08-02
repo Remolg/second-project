@@ -17,13 +17,13 @@ Bu projede olabildiğince semantik kod kullandım
 Projeyi klonlayın
 
 ```bash
-  git clone https://github.com/remolg/Grid-Project.git
+  git clone https://github.com/remolg/Technology-Website-Two.git
 ```
 
 Proje dizinine gidin
 
 ```bash
-  cd my-project
+  cd "Technology-Website-Two"
 ```
 
 
